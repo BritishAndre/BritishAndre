@@ -1,5 +1,4 @@
-👋 Hi, I’m Andrea
-<!---
-BritishAndre/BritishAndre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Hi, I’m Andrea
+### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,java)](https://skillicons.dev)
